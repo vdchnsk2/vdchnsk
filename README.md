@@ -1,7 +1,6 @@
 ### Hi there 👋 My name is Valerii Dychanskyi
 
-##### I am a software engineer, currently based in the Netherlands.
-
+#### ℹ️ I'm software engineer, currently live and work in NL
 
 ### 📫 How to reach me:
 - dichansky@gmail.com
